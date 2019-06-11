@@ -1,0 +1,11 @@
+Package: MoMoMo
+Type: Package
+Title: Modelos de Movilidad en Montevideo
+Version: 0.1
+Date: 2018-02-06
+Author: E. Riano, M. Hanzs, F. Massa, A.Rey, A. Castrillejo 
+Maintainer: Eugenia Riano <eugenia@iesta.edu.uy>
+Description: The package provides econometric modeling tools for origin-destination flow data applied to mobility and transport studies in Montevideo.
+Depends: R (>= 3.1.0)
+Imports: spdep
+License: LGPL
